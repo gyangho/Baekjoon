@@ -1,0 +1,12 @@
+﻿---
+BasedOnStyle: Microsoft
+AllowShortBlocksOnASingleLine: 'false'
+AllowShortCaseLabelsOnASingleLine: 'false'
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLambdasOnASingleLine: Empty
+AllowShortLoopsOnASingleLine: 'false'
+IndentWidth: '2'
+TabWidth: '2'
+
+...
