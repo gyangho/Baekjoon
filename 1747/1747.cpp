@@ -14,6 +14,11 @@ int main()
 
   std::cin >> N;
   iAns = N;
+  if (N == 1) // 1은 소수가 아니래요
+  {
+    std::cout << 2;
+    return 0;
+  }
   while (1)
   {
     if (IsPalindrome(iAns) && IsPrime(iAns))
